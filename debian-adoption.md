@@ -1,6 +1,7 @@
 ## 1. Debian Documentaries
 
 [Debian: The Operating System That Built Ubuntu, Then Went to Space](https://www.youtube.com/watch?v=fYhzaOJNGI0)
+[Debian "The Distro"](https://www.youtube.com/watch?v=r_uBslaBN88)
 
 
 ## 2. Distributions that moved to Debian
