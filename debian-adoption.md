@@ -3,7 +3,7 @@
 [Debian: The Operating System That Built Ubuntu, Then Went to Space]([https://www.youtube.com/watch?v=fYhzaOJNGI0)
 
 
-## 1. Distributions that moved to Debian
+## 2. Distributions that moved to Debian
 
 Some Linux distributions that previously relied on Ubuntu are moving directly to Debian, while others have been Debian-based for years.
 
@@ -26,7 +26,7 @@ As of November 2026, these are the projects worth looking at.
 - Kali Linux  (Switched to Debian in 2013, replacing Ubuntu-based BackTrack)
 - Pardus      (Switched to Debian in 2013)
 
-## 2. Companies using Debian
+## 3. Companies using Debian
 
 Debian is not only used by hobbyists. Large companies and organizations run it in production, often in critical infrastructure, because of its stability, long security support, community governance and freedom from vendor lock-in.
 
