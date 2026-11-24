@@ -1,4 +1,4 @@
-## 1. Debian Documentary
+## 1. Debian Documentaries
 
 [Debian: The Operating System That Built Ubuntu, Then Went to Space](https://www.youtube.com/watch?v=fYhzaOJNGI0)
 
